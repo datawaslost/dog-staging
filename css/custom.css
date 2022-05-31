@@ -1,0 +1,306 @@
+* {
+	box-sizing: border-box;
+}
+
+.bg-llight {
+	background-color: #F5F7F8;
+}
+
+body {
+	margin: 0;
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #F5F7F8;
+}
+
+.mobile-navbar {
+    display: none;
+}
+
+#not-found-popup {
+	display: none;
+}
+
+#not-found-popup {
+	position: absolute;
+	top: 2%;
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+	width: 375px;
+	background-color: #ffffff;
+    border: 2px solid #CECECE;
+    border-radius: 10px;
+    text-align: center;
+	filter: drop-shadow(3px 3px 2px #CECECE);
+	padding: 0 20px 30px;
+	opacity: 1;
+    animation: fade 2.6s ease-in-out;
+}
+
+@keyframes fade {
+	0%,100% { opacity: 0 }
+	25% { opacity: 1 }
+	75% { opacity: 1;}
+  }
+
+#not-found-popup h2 {
+	font-family: 'Alegreya', serif;
+	font-weight: 400;
+	font-size: 64px;
+	color: #5F8487;
+	margin: 0;
+}
+
+#not-found-popup p {
+	font-family: 'Alegreya', serif;
+	font-weight: 400;
+	font-size: 28px;
+	line-height: 36px;
+	margin: 0;
+}
+
+.card-button p {
+	font-size: 24px;
+}
+
+.header.container {
+	display: flex;
+	flex-direction:column;
+    justify-content: space-between;
+    align-items: center;
+  	background-color: #F5F7F8;
+    padding: 0 0 40px 0;
+	row-gap: 40px;
+}
+
+.header:before, .header:after {
+    content: none;
+    display: none;
+}
+
+header a {
+	text-align: center;
+	text-decoration: none;
+}
+
+header a:hover {
+	background-color: #ddd;
+	color: black;
+}
+
+header a.active {
+	background-color: #2196F3;
+	color: white;
+}
+
+.header h1 {
+	font-family: 'Carter One', cursive;
+	font-size: 64px;
+	color: #5F8487;
+	margin: 0;
+}
+
+.header form {
+	display: flex;
+	width: 600px;
+}
+
+.header form input {
+	width: 100%;
+}
+
+header input[type=text] {
+  	height: 60px;
+  	border: none;
+	border-radius: 25px 0 0 25px;
+	padding-left: 20px
+}
+
+header input[type=text]::placeholder {
+  	font-size: 28px;
+  	color: #DCDCDC;
+}
+
+header .search-container button {
+	font-size: 20px;
+  	height: 60px;
+  	background: #ffffff;
+  	border: none;
+  	cursor: pointer;
+  	padding: 0 20px;
+	border-radius: 0 25px 25px 0;
+}
+
+header .search-container button:hover {
+  	background: #ccc;
+}
+
+#posts {
+	display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+	max-width: 1024px;
+    margin: 0 auto;
+	padding: 60px 0 120px 0;
+	row-gap: 25px;
+	column-gap: 25px;
+}
+
+.card-button {
+	width: 250px;
+	background-color: #ffffff;
+    border: 2px solid #CECECE;
+    border-radius: 30px;
+    text-align: center;
+	filter: drop-shadow(3px 3px 2px #CECECE);
+}
+
+.card-button #card-title {
+	font-family: 'Alegreya', serif;
+	font-weight: 400;
+	font-size: 28px;
+	margin: 0;
+}
+
+.card-button a {
+	background-color: #F6F9F9;
+}
+
+.container {
+  	justify-content: space-between;
+	width: initial;
+}
+
+#content .container {
+	text-align: center;
+}
+
+.content-wrapper {
+	padding: 0;
+}
+
+.card-container {
+  	padding: 40px;
+  	background-color: #F5F7F8;
+  	border-radius: 10px;
+  	text-align: center;
+}
+
+#card-title {
+	text-transform: capitalize;
+  	font-size: 32px;
+}
+
+#card-safety {
+  	display: flex;
+  	flex-direction: row;
+  	justify-content: center;
+  	align-items: center;
+}
+
+#card-safety p {
+	font-family: 'Carter One', cursive;
+	font-size: 64px;
+	margin: 0;
+}
+
+.yes {
+	color: #36cb6d;
+}
+
+.no {
+	color: #f84949;
+}
+
+#card-info {
+  	font-size: 24px;
+	margin-bottom: 100px;
+}
+
+.post-content {
+	text-align: center;
+}
+
+.post {
+	background-color: #F5F7F8;
+    padding: 0 120px;
+    margin: 0;
+}
+
+.post .post-header {
+    border-bottom: none;
+}
+
+.post .post-footer .post-nav {
+    padding-bottom: 60px;
+}
+
+.pagination {
+	display: none;
+}
+
+#footer {
+	background-color: #F5F7F8;
+	margin-top: 0;
+}
+
+
+@media screen and (max-width: 768px) {
+  
+  	.desktop {
+    	display: none;
+  	}
+  
+  	.mobile {
+    	display: block;
+  	}
+
+	#not-found-popup {
+		width: 100%;
+	}
+	
+	#not-found-popup h2 {
+		font-size: 48px;
+	}
+  
+  	header {
+    	flex-direction: column;
+    	justify-content: space-around;
+    	padding: 20px;
+    	row-gap: 20px;
+  	}
+
+  	header .search-container {
+    	padding: 0;
+  	}
+
+	#posts {
+		flex-direction: column;
+		padding: 40px 0 60px 0;
+		row-gap: 25px;
+		align-content: center;
+	}
+
+	.header h1 {
+		font-size: 48px;
+	}
+	
+	.header form {
+		display: flex;
+		width: 100%;
+	}
+
+	#card-safety p {
+		font-size: 48px;
+	}
+
+	#card-info {
+		margin-bottom: 60px;
+	}
+
+	.post {
+	    padding: 0 40px;
+	}
+  
+}

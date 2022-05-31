@@ -1,0 +1,80 @@
+{
+	"banana":
+		{
+			"title": "banana",
+			"safety": true,
+			"information": "The natural sugar found in bananas may cause stomach upsets so make sure dogs are only given bananas in moderation"
+		},
+	"apple":
+		{
+			"title": "apple",
+			"safety": false,
+			"information": "The flesh of the apple can make a healthy snack for dogs"
+		},
+	"strawberry":
+		{
+			"title": "strawberry",
+			"safety": true,
+			"information": "Strawberries are fine for most dogs as long as you don't also give them leaves and stems"
+		},
+	"watermelon":
+		{
+			"title": "watermelon",
+			"safety": true,
+			"information": "Make sure the watermelon rinds and seeds are discarded first"
+		},
+	"blueberry":
+		{
+			"title": "blueberry",
+			"safety": true,
+			"information": "Blueberries can make good natural treats for dogs but should only be given in small amounts"
+		},
+	"blackberry":
+		{
+			"title": "blackberry",
+			"safety": true,
+			"information": "Blackberries can make good natural treats for dogs but should only be given in small amounts"
+		},
+	"tomato":
+		{
+			"title": "tomato",
+			"safety": true,
+			"information": "Dogs can eat the flesh of a ripe tomato"
+		},
+	"pineapple":
+		{
+			"title": "pineapple",
+			"safety": true,
+			"information": "A small amount pineapples (flesh only) can make a healthy snack for dogs"
+		},
+	"orange":
+		{
+			"title": "orange",
+			"safety": true,
+			"information": "The natural sugar and the acidic property of oranges may cause stomach upsets so limit the amount you feed to dogs"
+		},
+	"avocado":
+		{
+			"title": "avocado",
+			"safety": true,
+			"information": "Most dogs should be okay with eating a small amount of ripe avocado flesh"
+		},
+	"cucumber":
+		{
+			"title": "cucumber",
+			"safety": true,
+			"information": "Cucumbers are healthy treats for dogs and are known for their hydration benefits"
+		},
+	"broccoli":
+		{
+			"title": "broccoli",
+			"safety": true,
+			"information": "Broccoli is safe for dogs to eat if they are first chopped into smaller bite-sized pieces"
+		},
+	"mango":
+		{
+			"title": "mango",
+			"safety": true,
+			"information": "Discard the mango pit and skin as both may cause blockage in the dog's digestive tract"
+		}
+}	

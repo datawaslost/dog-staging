@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Safefor.dog</title>
+    <link>/</link>
+    <description>Recent content on Safefor.dog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 19 May 2022 17:09:12 -0400</lastBuildDate>
+    
+        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Thu, 19 May 2022 17:09:12 -0400</pubDate>
+      
+      <guid>/posts/my-first-post/</guid>
+      
+        <description>hello First Post</description>
+      
+    </item>
+    
+    <item>
+      <title>apple</title>
+      <link>/dog/foods/apple/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/dog/foods/apple/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>avocado</title>
+      <link>/dog/foods/avocado/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/dog/foods/avocado/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>banana</title>
+      <link>/dog/foods/banana/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/dog/foods/banana/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>blackberry</title>
+      <link>/dog/foods/blackberry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/dog/foods/blackberry/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>blueberry</title>
+      <link>/dog/foods/blueberry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/dog/foods/blueberry/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>broccoli</title>
+      <link>/dog/foods/broccoli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/dog/foods/broccoli/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>cucumber</title>
+      <link>/dog/foods/cucumber/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/dog/foods/cucumber/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>mango</title>
+      <link>/dog/foods/mango/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/dog/foods/mango/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>orange</title>
+      <link>/dog/foods/orange/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/dog/foods/orange/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>pineapple</title>
+      <link>/dog/foods/pineapple/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/dog/foods/pineapple/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>strawberry</title>
+      <link>/dog/foods/strawberry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/dog/foods/strawberry/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>tomato</title>
+      <link>/dog/foods/tomato/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/dog/foods/tomato/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>watermelon</title>
+      <link>/dog/foods/watermelon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/dog/foods/watermelon/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

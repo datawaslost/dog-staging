@@ -1,0 +1,83 @@
+<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>/posts/my-first-post/</loc>
+    <lastmod>2022-05-19T17:09:12-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2022-05-19T17:09:12-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2022-05-19T17:09:12-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dog/foods/apple/</loc>
+  </url>
+  
+  <url>
+    <loc>/dog/foods/avocado/</loc>
+  </url>
+  
+  <url>
+    <loc>/dog/foods/banana/</loc>
+  </url>
+  
+  <url>
+    <loc>/dog/foods/blackberry/</loc>
+  </url>
+  
+  <url>
+    <loc>/dog/foods/blueberry/</loc>
+  </url>
+  
+  <url>
+    <loc>/dog/foods/broccoli/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/dog/foods/cucumber/</loc>
+  </url>
+  
+  <url>
+    <loc>/dog/</loc>
+  </url>
+  
+  <url>
+    <loc>/dog/foods/mango/</loc>
+  </url>
+  
+  <url>
+    <loc>/dog/foods/orange/</loc>
+  </url>
+  
+  <url>
+    <loc>/dog/foods/pineapple/</loc>
+  </url>
+  
+  <url>
+    <loc>/dog/foods/strawberry/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>/dog/foods/tomato/</loc>
+  </url>
+  
+  <url>
+    <loc>/dog/foods/watermelon/</loc>
+  </url>
+  
+</urlset>
